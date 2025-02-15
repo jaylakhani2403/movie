@@ -20,7 +20,7 @@ This project implements a **machine learning-based recommendation system** using
 ### 1. Clone the Repository
 ```sh
 git clone https://github.com/jaylakhani2403/movie-recommendation
-cd food-delivery-web
+cd movie-recommendation
 ```
 
 ### 2. Install Dependencies
